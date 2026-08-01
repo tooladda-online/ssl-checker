@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔒 SSL Checker
+# 🧩 SSL Checker
 
 ### Use SSL Checker free on ToolAdda — quick, accurate, and browser-based.
 
@@ -9,7 +9,7 @@
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/ssl-checker.html)
 [![Category](https://img.shields.io/badge/Developer%20Tools-f59e0b?style=for-the-badge)](#)
 
-**SSL/TLS checker — inspect a domain's SSL certificate grade, issuer, expiry, and endpoint security. Browser-friendly with fallback support.**
+**Free online SSL Checker — check any website's SSL certificate expiry date, issuer, TLS grade, and security instantly. Test SSL certificates online, no sign-up needed.**
 
 [🚀 **Open SSL Checker Now →**](https://tooladda.online/ssl-checker.html)
 
@@ -92,13 +92,17 @@ Visit tooladda.online — search for SSL Checker or use the link in this reposit
 
 <p align="center">
   <code>ssl checker</code>&nbsp;
+  <code>ssl certificate checker</code>&nbsp;
+  <code>check ssl certificate</code>&nbsp;
+  <code>ssl expiry checker</code>&nbsp;
+  <code>ssl certificate expiry date</code>&nbsp;
   <code>tls checker</code>&nbsp;
-  <code>ssl labs</code>&nbsp;
-  <code>certificate checker</code>&nbsp;
-  <code>ssl grade</code>&nbsp;
-  <code>website security</code>&nbsp;
-  <code>ssl expiration</code>&nbsp;
-  <code>tls certificate</code>&nbsp;
+  <code>ssl test online</code>&nbsp;
+  <code>website ssl check</code>&nbsp;
+  <code>ssl grade checker</code>&nbsp;
+  <code>https checker</code>&nbsp;
+  <code>certificate validity checker</code>&nbsp;
+  <code>free ssl checker</code>&nbsp;
 </p>
 
 ---
@@ -115,4 +119,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: SSL Checker, ssl checker, tls checker, ssl labs, certificate checker, ssl grade, website security, ssl expiration, tls certificate, tooladda, free online tool -->
+<!-- SEO: SSL Checker, ssl checker, ssl certificate checker, check ssl certificate, ssl expiry checker, ssl certificate expiry date, tls checker, ssl test online, website ssl check, ssl grade checker, https checker, certificate validity checker, free ssl checker, tooladda, free online tool -->
